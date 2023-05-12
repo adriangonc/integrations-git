@@ -1,1 +1,2 @@
-files/secrets.txt
+files/secrets.json
+node_modules/*
